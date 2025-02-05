@@ -8,8 +8,7 @@
 
 <div align="center">
   🌍 I’m based in Moscow, Russia
-  📖 I’m currently learning **reverse engineering, React**
-
+  📖 I’m currently learning reverse engineering, React
 </div>
 
 <h1>Languages, frameworks, tools:</h1>
