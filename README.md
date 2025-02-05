@@ -1,6 +1,6 @@
 <h1>About me:</h1>
 
-<h3 align="center">🤖 devGuy 🤖</h3>
+<h3 align="center">🤖 insanepeople 🤖</h3>
 <h3 align="center">Love developing small projects</h3>
 <h3 align="center">Main stack - C++, Python, JS</h3>
 <div align="center"></div>
