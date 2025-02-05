@@ -16,10 +16,10 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,c,cpp,css,html,js,nodejs,react,django,fastapi" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,py,css,html,js,nodejs,fastapi,django" />
   </a>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=figma,flask,git,powershell,py,visualstudio,vscode,rust,spring,ts" />
+    <img src="https://skillicons.dev/icons?i=figma,flask,git,powershell,py,visualstudio,vscode" />
   </a>
 </p>
 
@@ -37,8 +37,6 @@
 
 ### Интерес:
 
-Также я интересуюсь CTF'ами и реверс инжинирингом.
-
-![Hacking Theme GIF](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWtsNmZ0MjR5dmRheHhhanQ3MHg3dTNvb21idDg2eGNsN2JhZHc4dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YQitE4YNQNahy/giphy.gif)
+Also, im interested in CTF's and reverse engineering.
 
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github)](https://github.com/konostrail)
