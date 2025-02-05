@@ -1,20 +1,39 @@
-## Привет
+<h1>About me:</h1>
 
-Я прочто Chill Guy. Вот немного обо мне:
+<h3 align="center">🤖 devGuy 🤖</h3>
+<h3 align="center">Love developing small projects</h3>
+<h3 align="center">Main stack - C++, Python, JS</h3>
+<div align="center"></div>
+<div align="center">------------------------------</div>
 
-### IDE:
+<div align="center">
+  🌍 I’m based in Moscow, Russia
+  📖 I’m currently learning **reverse engineering, React**
 
-![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=flat-square&logo=visual-studio&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+</div>
 
-### Языки:
+<h1>Languages, frameworks, tools:</h1>
 
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,c,cpp,css,html,js,nodejs,react,django,fastapi" />
+  </a>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=figma,flask,git,powershell,py,visualstudio,vscode,rust,spring,ts" />
+  </a>
+</p>
 
+<h1>Stats:</h1>
+<div id="stat" align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=konostrail&theme=github_dark" alt=""/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=konostrail&theme=github_dark" alt=""/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=konostrail&theme=github_dark" alt=""/>
+</div>
+<p align="center"> 
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=konostrail&theme=darkhub" alt="konostrail" />
+  </a> 
+</p>
 
 ### Интерес:
 
