@@ -15,10 +15,10 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,py,css,html,js,nodejs,fastapi,django" />
+    <img src="https://skillicons.dev/icons?i=cpp,py,js,nodejs,fastapi,django" />
   </a>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=figma,flask,git,powershell,py,visualstudio,vscode" />
+    <img src="https://skillicons.dev/icons?i=powershell,py,visualstudio,vscode" />
   </a>
 </p>
 
