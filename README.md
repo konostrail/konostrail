@@ -1,11 +1,10 @@
 <h1>About me:</h1>
 
-<h3 align="center">🤖 insanepeople 🤖</h3>
-<h3 align="center">Love developing small projects</h3>
-<h3 align="center">Main stack - C++, Python, JS</h3>
+<h3 align="center"> LilTeck </h3>
+<h3 align="center">приобретаю кашель за деньги</h3>
+<h3 align="center">стек - C++, Python</h3>
 <div align="center"></div>
-<div align="center">------------------------------</div>
-
+---
 <div align="center">
   🌍 I’m based in Moscow, Russia
   📖 I’m currently learning reverse engineering, React
