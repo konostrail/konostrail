@@ -4,16 +4,3 @@
 <div align="center">
   Из Moscow
 </div>
-
-<h1>Языки</h1>
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,py,js,nodejs,fastapi,django" />
-  </a>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=powershell,py,visualstudio,vscode" />
-  </a>
-</p>
-
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github)](https://github.com/konostrail)
