@@ -1,4 +1,3 @@
-<h1>About me:</h1>
 
 <h3 align="center"> LilTeck </h3>
 <h3 align="center">приобретаю кашель за деньги</h3>
@@ -6,11 +5,10 @@
 <div align="center"></div>
 ---
 <div align="center">
-  🌍 I’m based in Moscow, Russia
-  📖 I’m currently learning reverse engineering, React
+  Из Moscow
 </div>
 
-<h1>Languages, frameworks, tools:</h1>
+<h1>Языки</h1>
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -20,21 +18,8 @@
     <img src="https://skillicons.dev/icons?i=powershell,py,visualstudio,vscode" />
   </a>
 </p>
-
-<h1>Stats:</h1>
-<div id="stat" align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=konostrail&theme=github_dark" alt=""/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=konostrail&theme=github_dark" alt=""/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=konostrail&theme=github_dark" alt=""/>
-</div>
-<p align="center"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=konostrail&theme=darkhub" alt="konostrail" />
-  </a> 
-</p>
-
 ### Интерес:
 
-Also, im interested in CTF's and reverse engineering.
+Интерес ломать
 
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github)](https://github.com/konostrail)
